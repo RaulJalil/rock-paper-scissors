@@ -1,0 +1,17 @@
+
+body {
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    height:100vh
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+    background-color: rgb(2, 2, 2);
+    color: chartreuse;
+}
+button:hover {
+    transform: scale(1.2);
+}
+
